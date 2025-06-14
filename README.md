@@ -37,10 +37,15 @@ Always up for new tech—Backend,Frontend, DevOps, Product Design and Management
 Let’s Talk
 
 ✉️ ajayioba2000@gmail.com 
+
 🔗 LinkedIn: https://www.linkedin.com/in/obanijesuajayi 
+
 📄 Resume: https://www.tinyurl.com/obeejdtechbuilder   
+
 🎨 UI/UX Portfolio: https://www.tinyurl.com/obeejportfolio 
+
 💬 WhatsApp: +2348140722250  
 
 If you need a backend engineer who benchmarks tools, handles DevOps, and can dabble in design—hit me up. 
+
 Let’s ship something awesome!
