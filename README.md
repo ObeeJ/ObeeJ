@@ -1,9 +1,6 @@
-- 👋 Hi, 
-ObeeJ := "Ajayi ObaniJesu"
+- I buid tech that solve real world problems 
 
-- 👀 I’m interested in buiding tech that solve real world problems 
-
-- Software engineer who builds fast, reliable systems with a knack for backend engineering, DevOps, and a touch of cloud.
+     + Software engineer who builds fast, reliable systems with a knack for backend engineering, DevOps, and a touch of cloud.
 
 
  - What I Do
