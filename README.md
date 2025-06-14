@@ -1,4 +1,4 @@
-- I buid tech that solve real world problems 
+- I build tech that solve real world problems 
 
      + Software engineer who builds fast, reliable systems with a knack for backend engineering, DevOps, and a touch of cloud.
 
@@ -36,7 +36,7 @@ Always up for new tech—Backend,Frontend, DevOps, Product Design and Management
 
 Let’s Talk
 
-✉️ ajayioba2000@gmail.com (mail-to:ajayioba2000@gmail.com)  
+✉️ ajayioba2000@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/obanijesuajayi 
 📄 Resume: https://www.tinyurl.com/obeejdtechbuilder   
 🎨 UI/UX Portfolio: https://www.tinyurl.com/obeejportfolio 
