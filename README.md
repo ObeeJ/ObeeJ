@@ -5,9 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obeej" alt="obeej" /></a> </p>
 
-- 🔭 I’m currently building tech solutions that can help solve some real world problems. **GoLang, Rust, Typescript & Python-For automation when needed**
+- 🔭 I’m currently building tech solutions that can help solve some real world problems. **GoLang**
+      + On the other end, I can build with Rust, Typescript & Python - for automation when needed
 
-- 🌱 I’m currently learning other performance critical language - Rust and C# **Actix, Substrate(tentative), .Net**
+- 🌱 I’m currently learning some framework in Rust - **Actix, Substrate(tentative)**
 
 - 👨‍💻 All of my projects are available at [www.github.com/obeej](www.github.com/obeej)
 
