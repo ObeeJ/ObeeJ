@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obeej" alt="obeej" /></a> </p>
 
-- 🔭 I’m currently building tech solutions that can help solve some real world problems. **GoLang & Rust**
-      - On the other end, I can build with Rust, Typescript & Python - for automation when needed
+- 🔭 I’m currently building tech solutions that can help solve some real world problems. **GoLang (Gin, Fiber, net/http) & Rust (Axum)**
+      - On the other end, I can build with Typescript (Fastify, NestJs) & Python - for automation when needed
 
 - 🌱 I’m currently learning some framework in Rust - **Actix, Substrate(tentative)**
 
