@@ -9,7 +9,7 @@
 
 ---
 
-I’m **Ajayi ObaniJesu (ObeeJ)** — a backend-focused **Software Engineer** working with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. I'm passionate about building systems that scale and solving real-world problems with elegant backend and DevOps engineering. Currently learning frameworks like **Actix** and exploring **Substrate** tentatively.
+🔭  I’m **Ajayi ObaniJesu (ObeeJ)** — **Software Engineer** working with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. I build systems that scale and solve real-world problems. Currently learning frameworks like **Actix** and exploring **Substrate** tentatively.
 
 ---
 
@@ -17,19 +17,18 @@ I’m **Ajayi ObaniJesu (ObeeJ)** — a backend-focused **Software Engineer** wo
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/>
 </p>
-
 ---
 
 ### ✍️ Latest Blog Posts
