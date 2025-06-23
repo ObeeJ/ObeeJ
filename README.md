@@ -16,19 +16,19 @@
 ### ⚒️ Languages and Tools
 
 <p align="center">
+
   <!-- Go & Go Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="Go" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" title="Go" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/78944734?s=200&v=4" title="Gin (Go)" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/51656757?s=200&v=4" title="Fiber (Go)" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="net/http" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/61971985?s=200&v=4" title="fasthttp" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/61971985?s=200&v=4" title="fasthttp (Go)" width="40"/>
 
   <!-- Rust & Rust Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" title="Axum (Rust)" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/61969965?s=200&v=4" title="Actix (Rust)" width="40"/>
 
-  <!-- TypeScript & Node -->
+  <!-- TypeScript & Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
 
@@ -38,18 +38,18 @@
 
   <!-- Caching -->
   <img src="https://avatars.githubusercontent.com/u/48809512?s=200&v=4" title="KeyDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" title="Redis" width="40"/>
 
   <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40"/>
   <img src="https://avatars.githubusercontent.com/u/105127341?s=200&v=4" title="Neon.tech" width="40"/>
 
-  <!-- Cloud & Infra -->
-  <img src="https://avatars.githubusercontent.com/u/24979046?s=200&v=4" title="Railway" width="40"/>
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" title="Supabase" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" title="Firebase" width="40"/>
+  <!-- Cloud / Infra -->
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" title="Firebase" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" title="Supabase" width="40"/>
+  <img src="https://avatars.githubusercontent.com/u/24979046?s=200&v=4" title="Railway" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" title="Cloudflare" width="40"/>
 
   <!-- Tools -->
@@ -58,10 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-icon.svg" title="Postman" width="40"/>
 
-  <!-- Team Tools -->
+  <!-- Team & Management -->
   <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" title="Slack" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/confluence.svg" title="Confluence" width="40"/>
+
 </p>
 
 <p align="center">
