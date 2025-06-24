@@ -3,26 +3,23 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/obanijesuajayi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obanijesuajayi" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
 
-  <!-- DEV.to Blog -->
-  <a href="https://dev.to/obeej" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/obeej" height="30" width="40" />
-  </a>
-
-  <!-- Resume -->
   <a href="https://tinyurl.com/obeejdtechbuilder" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-resume-online-portfolio-tal-revivo-color-tal-revivo.png" alt="Resume" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-resume-online-portfolio-tal-revivo-color-tal-revivo.png" alt="resume" height="30" width="40" />
   </a>
 
-  <!-- Discord -->
+  <a href="https://dev.to/obeej" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
+  </a>
+
   <a href="https://discord.gg/@Obeej" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Obeej" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
 </p>
+
 ---
 
 🔭  I’m **Ajayi ObaniJesu (ObeeJ)** — **Software Engineer** working with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. I build systems that scale and solve real-world problems. Currently learning frameworks like **Actix** and exploring **Substrate** tentatively.
