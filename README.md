@@ -1,28 +1,10 @@
 ### Hi there I am [Ajayi ObaniJesu (ObeeJ)](https://www.linkedin.com/in/obanijesuajayi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-<h3 align="left">📬 Connect With Me</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/obanijesuajayi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
-
-  <!-- Dev.to -->
-  <a href="https://dev.to/obeej" target="_blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="40" width="50" />
-  </a>
-
-  <!-- Resume -->
-  <a href="https://tinyurl.com/obeejdtechbuilder" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/resume.png" alt="Resume" height="40" width="50" />
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.gg/@Obeej" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
-  </a>
-</p>
+[![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obanijesuajayi)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@Obeej)
+[![Resume](https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://tinyurl.com/obeejdtechbuilder)
 
 ---
 
