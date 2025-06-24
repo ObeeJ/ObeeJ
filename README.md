@@ -1,12 +1,28 @@
 ### Hi there I am [Ajayi ObaniJesu (ObeeJ)](https://www.linkedin.com/in/obanijesuajayi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=obeej&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/obeej)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/obanijesuajayi)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@obeej)
-[![Behance](https://img.shields.io/badge/Behance-%23191919.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/obanijesuajayi)
-[![Email](https://img.shields.io/badge/Email-ajayioba2000@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/obanijesuajayi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obanijesuajayi" height="30" width="40" />
+  </a>
 
+  <!-- DEV.to Blog -->
+  <a href="https://dev.to/obeej" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/obeej" height="30" width="40" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://tinyurl.com/obeejdtechbuilder" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-resume-online-portfolio-tal-revivo-color-tal-revivo.png" alt="Resume" height="30" width="40" />
+  </a>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/@Obeej" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Obeej" height="30" width="40" />
+  </a>
+</p>
 ---
 
 🔭  I’m **Ajayi ObaniJesu (ObeeJ)** — **Software Engineer** working with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. I build systems that scale and solve real-world problems. Currently learning frameworks like **Actix** and exploring **Substrate** tentatively.
