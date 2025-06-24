@@ -1,10 +1,13 @@
 ### Hi there I am [Ajayi ObaniJesu (ObeeJ)](https://www.linkedin.com/in/obanijesuajayi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
+[![📨 Email](https://img.shields.io/badge/📨%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obanijesuajayi)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@Obeej)
 [![Resume](https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=google-drive&logoColor=white)](https://tinyurl.com/obeejdtechbuilder)
+[![Socials](https://img.shields.io/badge/Socials-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/obeej?utm_source=linktree_profile_share&ltsid=fadb5fa8-9ea5-437a-b6f0-509af4a49361)
+[![Buy me coffee](https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paystack.shop/pay/xt2108lk5d)
 
 ---
 
