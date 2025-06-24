@@ -1,5 +1,5 @@
 ### Hi there I am [Ajayi ObaniJesu (ObeeJ)](https://www.linkedin.com/in/obanijesuajayi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/> [![GitHub Profile Views](https://komarev.com/ghpvc/?username=obeej&label=Profile+Views&style=for-the-badge&color=brightgreen)](https://github.com/obeej)
+<br/>[![GitHub Profile Views](https://komarev.com/ghpvc/?username=obeej&label=Profile+Views&style=for-the-badge&color=brightgreen)](https://github.com/obeej)
 
 [![📨 Email](https://img.shields.io/badge/📨%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
