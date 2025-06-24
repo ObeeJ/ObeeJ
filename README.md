@@ -1,22 +1,26 @@
 ### Hi there I am [Ajayi ObaniJesu (ObeeJ)](https://www.linkedin.com/in/obanijesuajayi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📬 Connect With Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/obanijesuajayi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/obanijesuajayi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
 
-  <a href="https://tinyurl.com/obeejdtechbuilder" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-resume-online-portfolio-tal-revivo-color-tal-revivo.png" alt="resume" height="30" width="40" />
+  <!-- Dev.to -->
+  <a href="https://dev.to/obeej" target="_blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Dev.to" height="40" width="50" />
   </a>
 
-  <a href="https://dev.to/obeej" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
+  <!-- Resume -->
+  <a href="https://tinyurl.com/obeejdtechbuilder" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/resume.png" alt="Resume" height="40" width="50" />
   </a>
 
-  <a href="https://discord.gg/@Obeej" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  <!-- Discord -->
+  <a href="https://discord.gg/@Obeej" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" />
   </a>
 </p>
 
