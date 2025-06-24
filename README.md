@@ -13,20 +13,22 @@
 
 ---
 
-<h3 align="center">Languages and Tools 🛠️</h3>
+<h3 align="center">⚒️ Languages, Tools & Frameworks</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="background:#fff; padding:8px; border-radius:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="Supabase" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" alt="Fastify" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="50" height="50" style="padding:10px; background:white; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 5px;"/>
 </p>
 
 ---
