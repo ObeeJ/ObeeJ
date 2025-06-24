@@ -72,20 +72,11 @@
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-▶️ [More blog posts...](https://medium.com/@obeej)
+▶️ [More blog posts...](https://dev.to/obeej)
 
 ---
 
-### 📊 GitHub Stats
-
-[![](https://raw.githubusercontent.com/obeej/obeej/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/obeej/obeej/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/obeej/obeej/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://streak-stats.demolab.com?user=obeej&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
-### 📊
+### 📊 Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeej&layout=compact&theme=radical" alt="Top Languages" />
