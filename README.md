@@ -25,8 +25,8 @@
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
 
-  <!-- AWS -->
-  <img src="https://a0.aws.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+   <!-- AWS (custom safe image) -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;margin:5px;object-fit:contain;"/>
 
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
