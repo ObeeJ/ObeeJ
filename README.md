@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
 
   <!-- AWS -->
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://a0.aws.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
 
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
@@ -48,9 +48,6 @@
 
   <!-- NestJS -->
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
-
-  <!-- Fastify -->
-  <img src="https://fastify.dev/img/fastify-logo-head.svg" alt="Fastify" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
