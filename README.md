@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">⚒️ Languages, Tools & Frameworks</h3>
+<h3 align="center">⚒️ Languages, Tools & Framework</h3>
 
 <p align="center">
   <!-- Go -->
