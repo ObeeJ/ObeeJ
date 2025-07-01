@@ -15,64 +15,62 @@
 
 ---
 
-<h3 align="center">⚒️ Languages, Tools & Framework</h3>
+<<h3 align="center">⚒️ Languages, Tools & Framework</h3>
 
-<p align="center">
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px;padding:10px;">
+
   <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Rust -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
-   <!-- AWS (custom safe image) -->
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;margin:5px;object-fit:contain;"/>
+  <!-- AWS -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);object-fit:contain;" />
 
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Kubernetes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
-<!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" style="padding:10px;background:white;border-radius:12px;margin:5px;"/>
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
-  <!-- NGINX (proxy) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <!-- NGINX -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
- <!-- SQL -->
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" 
-     alt="SQL" 
-     width="50" 
-     height="50" 
-     style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <!-- SQL -->
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- NestJS -->
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Jira -->
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
 
   <!-- Slack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);" />
+
+</div>
 
 ---
 
