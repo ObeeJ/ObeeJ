@@ -15,7 +15,7 @@
 
 ---
 
-<<h3 align="center">⚒️ Languages, Tools & Framework</h3>
+<h3 align="center">⚒️ Languages, Tools & Framework</h3>
 
 <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:10px;padding:10px;">
 
