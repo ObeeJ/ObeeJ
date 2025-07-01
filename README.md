@@ -16,41 +16,29 @@
 
 ---
 
-## ⚒️ Languages, Tools & Frameworks
+## ⚒️ Languages & Frameworks I Use
 
-### 🧠 Languages
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" />
+  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
 </p>
 
-### 💾 Databases
+---
+
+## 🔧 Tools, DevOps & Databases
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" />
-</p>
-
-### 🧰 Frameworks
-<p align="center">
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" />
-</p>
-
-### 🛠️ Tools
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="50" />
@@ -69,11 +57,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&theme=radical" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeej&layout=compact&theme=radical&hide=html,css" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeej&layout=compact&theme=radical&langs_count=8&hide=html,css,ejs,json" height="200" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=obeej&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=obeej&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
