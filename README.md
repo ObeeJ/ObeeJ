@@ -48,8 +48,9 @@
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
 
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" alt="SQL" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
+  <div style="display:inline-block;padding:10px 20px;background:white;color:#00758F;font-weight:bold;font-family:sans-serif;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;">
+  SQL
+</div>
 
   <!-- Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
