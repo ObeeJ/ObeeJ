@@ -11,7 +11,7 @@
 
 ---
 
-🔭 I’m **Ajayi ObaniJesu (ObeeJ)** — a **Software Engineer** building scalable systems with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. Currently exploring **Actix**, **Substrate**, and backend tooling. I love solving real-world problems with design, systems, and good code.
+🔭 I’m **Ajayi ObaniJesu compressed(ObeeJ)** — a **Software Engineer** building scalable systems with **Go** and **Rust**. I specialize in using frameworks like **Gin**, **Fiber**, **net/http** for Go, and **Axum** for Rust. Currently exploring **Actix**, **Substrate**, and backend tooling. I love solving real-world problems with design, systems, and good code.
 
 ---
 
@@ -23,10 +23,19 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50"/>
 </p>
 
+### 🧰 Frameworks I Use Proficiently
+<p align="center">
+  <img src="https://actix.rs/images/logo.png" alt="Axum" width="50"/> <!-- Axum uses the Actix logo as it's part of the Actix ecosystem -->
+  <img src="https://gin-gonic.com/favicon.ico" alt="Gin" width="50"/>
+  <img src="https://gofiber.io/assets/images/logo.svg" alt="Fiber" width="50"/>
+  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="net/http" width="50"/> <!-- Using Go logo for net/http as it's part of the standard library -->
+</p>
+
 ### 🚀 Familiar With (Frameworks + Language)
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50"/>
+  <img src="https://actix.rs/images/logo.png" alt="Actix" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
 </p>
@@ -39,7 +48,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9/cppGcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"/>
 </p>
