@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeej&layout=compact&theme=radical&hide=css,html,json,md&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeej&layout=compact&theme=radical&hide=css,html,json,md&langs_count=8" />
 </p>
 
 <p align="center">
