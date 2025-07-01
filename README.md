@@ -48,6 +48,7 @@
   <!-- MongoDB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="padding:10px;background:white;border-radius:12px;box-shadow:0 2px 6px rgba(0,0,0,0.2);margin:5px;" />
 
+ <!-- SQL -->
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" 
      alt="SQL" 
      width="50" 
