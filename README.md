@@ -4,7 +4,7 @@
     <h1 align="center">&emsp;ObeeJ&emsp;</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Systems+Builder;Cloud+developer;DevOps;FullStack+Frontend(AI);Go+%26+Rust+Engineer;Building+Scalable+Solutions&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Go+%26+Rust+Engineer;Backend+Systems+Builder;Cloud+developer+DevOps;FullStack+Frontend(AI);Building+Scalable+Solutions&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
 </p>
 <br>
 <p align="center">
