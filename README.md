@@ -1,5 +1,25 @@
-### Hi there I am [Ajayi ObaniJesu (ObeeJ)](https://www.linkedin.com/in/obanijesuajayi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>[![GitHub Profile Views](https://komarev.com/ghpvc/?username=obeej&label=Profile+Views&style=for-the-badge&color=brightgreen)](https://github.com/obeej)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Ajayi ObaniJesu (ObeeJ)&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+Systems+Builder;Go+%26+Rust+Developer;Building+Scalable+Solutions&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
+</p>
+<br>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=obeej&color=grey">
+</p>
+
+<div id="header" align="center">
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
+</div>
+
+## 🚀 About Me
+
+🔭 I'm **Ajayi ObaniJesu (ObeeJ)** — a **Software Engineer** building scalable systems with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. Currently exploring **Actix**, **Substrate**, and backend tooling. I love solving real-world problems with design, systems, and good code.
+
+## 📫 Connect With Me
 
 [![📨 Email](https://img.shields.io/badge/📨%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
@@ -9,63 +29,82 @@
 [![Socials](https://img.shields.io/badge/Socials-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/obeej)
 [![Buy me coffee](https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paystack.shop/pay/xt2108lk5d)
 
----
-
-🔭 I’m **Ajayi ObaniJesu (ObeeJ)** — a **Software Engineer** building scalable systems with **Go (Gin, Fiber, net/http)** and **Rust (Axum)**. Currently exploring **Actix**, **Substrate**, and backend tooling. I love solving real-world problems with design, systems, and good code.
-
----
-
-## ⚒️ Tech Stack
+## 🛠️ Languages and Tools
 
 ### 🧪 Languages I Use Proficiently
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" width="50"/>
+<p align="left">
+<a href="https://golang.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+</a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+</a>
 </p>
 
-### 🚀 Familiar With (Frameworks + Language)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+### 🚀 Familiar With (Frameworks + Languages)
+<p align="left">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
 </p>
 
 ### 🛠️ DevOps, Cloud & Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" alt="SQL" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebe2oaBVLlVJDMGNZV8dZw4QfEWbIevmUCw&usqp=CAU" alt="AWS" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"/>
+<p align="left">
+<a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+</a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+</a>
 </p>
 
 ### 🎯 Product Management & Design Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="Slack" width="50"/>
+<p align="left">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 </p>
 
----
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obeej&show_icons=true&locale=en&layout=compact&theme=radical" alt="obeej" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&theme=radical" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&locale=en&theme=radical" alt="obeej" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obeej&layout=compact&theme=radical&hide=css,html,json,md&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=obeej&theme=radical" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obeej&theme=radical" alt="obeej" /></p>
 
 ---
 
@@ -76,4 +115,4 @@
 
 ---
 
-**Let’s build something powerful. 🚀**
+**Let's build something powerful. 🚀**
