@@ -1,98 +1,125 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">  
 
-<p align="center">
-  <h1>👋🏽 ObeeJ</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Go+%26+Rust+Engineer;Backend+Systems+Builder;Cloud+DevOps+Specialist;FullStack+&+AI+Enthusiast;Building+Scalable+Solutions&font=Fira+Code&color=%23D62F79&center=true&width=500&height=60">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=obeej&color=grey" alt="Profile Views">
-</p>
+<br>  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
-</div>
+<p align="center">  
+  <h1 align="center">&emsp;ObeeJ&emsp;</h1>  
+</p>  
+
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Go+%26+Rust+Backend+Engineer;Cloud+Native+Builder;DevOps+Practitioner;System+Design+Focused;Always+Learning&font=Fira%20Code&color=%23D62F79&center=true&width=440&height=50">  
+</p>  
+
+<p align="center">  
+  <img id="preview" src="https://komarev.com/ghpvc/?username=obeej&color=grey">  
+</p>  
+
+<div align="center">  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>  
+</div>  
 
 ---
 
 ## 🚀 About Me
 
-🔭 I'm **Ajayi ObaniJesu (ObeeJ)** — a **Software Engineer** specializing in:
+🔭 I'm **Ajayi Obanijesu (ObeeJ)** — a **Software Engineer** who builds distributed, high-performance, and cloud-native systems using **Go** and **Rust**.
 
-- **Backend**: Go (Gin, Fiber, net/http, fasthttp) & Rust (Axum, Actix)  
-- **Cloud-Native**: AWS (EC2, S3, IAM, RDS, CloudWatch)  
-- **DevOps**: Docker, Kubernetes, CI/CD, Infrastructure-as-Code  
-- **Databases**: PostgreSQL, Redis  
-- **Scripting/Tools**: Bash, Git, Linux  
-- **Learning**: Web3 & Blockchain, Machine Learning/AI
+💡 I focus on **backend architecture**, **DevOps**, and building with a **systems mindset**.
 
-I build **scalable**, **secure**, **distributed** systems that solve real-world problems.
+🌍 I work across cloud infrastructure (AWS), container orchestration (Docker & Kubernetes), and modern backend technologies.
+
+🧩 I’m passionate about performance, resilience, and simplicity in code and design.
 
 ---
 
-## 🛠️ Languages & Frameworks
+## 🧰 Tech I Work With
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" title="Rust" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+### ⚙️ Proficient In
+
+- **Languages:** Go, Rust  
+- **Go Frameworks:** Gin, Fiber, `net/http`, fasthttp  
+- **Rust Frameworks:** Actix, Axum  
+- **Cloud & Infra:** AWS (EC2, S3, IAM, RDS, SES), Docker, Kubernetes  
+- **Databases:** PostgreSQL, MySQL, Redis  
+- **OS & Tooling:** Linux, Git, Bash  
+- **Custom Builds:** Embedded DBs, API Gateways, Internal Dev Tools  
+
+### 🚀 Familiar With
+
+- **Languages:** TypeScript, Python  
+- **Frameworks:** NestJS, Next.js  
+- **Others:** MongoDB, NGINX, GraphQL  
+
+---
+
+## 🧠 Currently Working On
+
+- 🌩️ Building production-grade **Cloud-Native Applications** using **Kubernetes**, **Docker**, and **AWS** services  
+- 🔄 Designing **modular, scalable APIs** with custom API gateways  
+- ⚙️ Automating CI/CD pipelines and improving internal DX with tools I build myself  
+- 💳 Real-world SaaS tools for finance, logistics, and payments  
+- 🧱 Observability, monitoring, and distributed tracing
+
+---
+
+## 🌱 Currently Learning
+
+- 📈 Advanced Concepts in **Reliability**, **Observability**, and **Distributed Tracing**  
+- 🧠 Exploring **ML/AI** for backend optimization and DevOps intelligence  
+- 🔐 Secure cloud architecture (IAM, OPA, TLS termination, service mesh)  
+- 🌐 **Web3** design and smart contract integration  
+- 📉 Advanced DB internals & replication mechanisms
+
+---
+
+## 🛠️ Languages and Tools
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
-**Go Frameworks:** Gin · Fiber · net/http · fasthttp  
-**Rust Frameworks:** Actix · Axum
-
----
-
-## ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+### 🌐 Frameworks  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
 </p>
 
-- **CI/CD** with GitHub Actions  
-- **Infra-as-Code** & monitoring  
-- **Containerization** & orchestration
-
----
-
-## 🗄️ Databases & Caching
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" title="Redis" />
+### ☁️ Cloud, Infra & DevOps  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 </p>
 
----
-
-## 📚 Learning & Exploring
-
-- **Web3 & Blockchain** (Substrate, Solidity)  
-- **Machine Learning & AI** (TensorFlow, PyTorch)
-
----
-
-## 📫 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-ajayioba2000@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:ajayioba2000@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ObanijesuAjayi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/obanijesuajayi)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat-square&logo=devdotto)](https://dev.to/obeej)  
-[![Resume](https://img.shields.io/badge/Resume-CV-orange?style=flat-square&logo=google-drive)](https://tinyurl.com/obeejdtechbuilder)  
-[![Buy Me Coffee](https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee)](https://paystack.shop/pay/xt2108lk5d)
+### 🛢️ Databases & Caching  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=obeej&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obeej&theme=radical" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obeej&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obeej&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
@@ -102,8 +129,17 @@ I build **scalable**, **secure**, **distributed** systems that solve real-world 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-▶️ [Read more on Dev.to](https://dev.to/obeej)
+▶️ [More on dev.to →](https://dev.to/obeej)
 
 ---
 
-**Let’s build something powerful. 🚀**
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/📨%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obanijesuajayi)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paystack.shop/pay/xt2108lk5d)
+
+---
+
+**Let’s build the future, one solid system at a time.** 🚀
