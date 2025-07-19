@@ -37,9 +37,9 @@
 
 ### ⚙️ Proficient In
 
-- **Languages:** Go, Rust  
-- **Go Frameworks:** Gin, Fiber, `net/http`, fasthttp  
-- **Rust Frameworks:** Actix, Axum  
+- **Languages:** `Go`, `Rust`  
+- **Go Frameworks:** `Gin`, `Fiber`, `net/http`, `fasthttp` 
+- **Rust Frameworks:** `Axum`  
 - **Cloud & Infra:** AWS (EC2, S3, IAM, RDS, SES), Docker, Kubernetes  
 - **Databases:** PostgreSQL, MySQL, Redis  
 - **OS & Tooling:** Linux, Git, Bash  
@@ -48,17 +48,65 @@
 ### 🚀 Familiar With
 
 - **Languages:** TypeScript, Python  
-- **Frameworks:** NestJS, Next.js  
-- **Others:** MongoDB, NGINX, GraphQL  
+- **Frameworks:** NestJS, Next.js, Actix 
+- **Others:** MongoDB, GraphQL  
+
+(Familiar)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
+</p>
+
+### ☁️ Cloud, Infra & DevOps  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</p>
+
+### 🛢️ Databases & Caching  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obeej&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=obeej&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obeej&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/📨%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obanijesuajayi)
+[![Buy Me Coffee](https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paystack.shop/pay/xt2108lk5d)
 
 ---
 
 ## 🧠 Currently Working On
 
 - 🌩️ Building production-grade **Cloud-Native Applications** using **Kubernetes**, **Docker**, and **AWS** services  
-- 🔄 Designing **modular, scalable APIs** with custom API gateways  
+- 🔄 Designing **modular, scalable APIs** with custom API gateways
 - ⚙️ Automating CI/CD pipelines and improving internal DX with tools I build myself  
-- 💳 Real-world SaaS tools for finance, logistics, and payments  
+- 💳 Real-world projects and tools across different industries.
 - 🧱 Observability, monitoring, and distributed tracing
 
 ---
@@ -75,15 +123,19 @@
 
 ## 🛠️ Languages and Tools
 
-### 💻 Languages  
+### 💻 Languages (Proficient)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40"/>
+</p>
+
+### 💻 Languages (Familiar) 
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
-### 🌐 Frameworks  
+### 🌐 Frameworks (Familiar)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="40" height="40"/>
@@ -130,15 +182,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ▶️ [More on dev.to →](https://dev.to/obeej)
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/📨%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayioba2000@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/obeej)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obanijesuajayi)
-[![Buy Me Coffee](https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paystack.shop/pay/xt2108lk5d)
 
 ---
 
