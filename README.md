@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>
-  <p>Software Engineer specializing in backend systems with Go and Rust. Passionate about building scalable solutions and exploring new technologies.</p>
+  <p>Software and Platform Engineer skilled in building scalable backend systems with Go and Rust. </p>
 </div>
 
 <div align="center">
