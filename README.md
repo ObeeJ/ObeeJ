@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>
-  <p> Software, Platform, and Cloud Engineer focused on backend systems, infrastructure, and developer tooling. I engineer with Go as my core language, apply Rust where performance matters, and stay familiar with TypeScript and Python. I build with Terraform, Docker, Kubernetes, AWS, GitHub Actions, and Bash — solving real engineering problems beyond the web. </p>
+  <p> I'm a software engineer with a backend-first mindset, building reliable systems using Go and Rust when performance matters. I care deeply about clean architecture, scalable design, and developer experience. Over time, I've expanded my scope to include cloud infrastructure (AWS, Docker, Terraform, Kubernetes) and DevOps practices that make shipping smoother. While I lead with backend and platform thinking, I'm comfortable across the stack—working with TypeScript, Python, and integrating frontend with AI tools when needed. I enjoy simplifying complex systems and building tools that make tech work better for people beyond shipping web apps. </p>
 </div>
 
 <div align="center">
