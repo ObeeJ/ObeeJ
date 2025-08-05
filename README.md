@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>
-  <p>Software, Platform, and Cloud Engineer building scalable backends and CLI tools with Go and Rust. I design and integrate frontend interfaces with AI tools and automate deployments using AWS, Docker, Kubernetes, GitHub Actions, and Bash.</p>
+  <p> Software, Platform, and Cloud Engineer focused on backend systems, infrastructure, and developer tooling. I engineer with Go as my core language, apply Rust where performance matters, and stay familiar with TypeScript and Python. I build with Terraform, Docker, Kubernetes, AWS, GitHub Actions, and Bash — solving real engineering problems beyond the web. </p>
 </div>
 
 <div align="center">
