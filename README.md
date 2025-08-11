@@ -11,7 +11,7 @@ I build **high-performance, cloud-native architectures** in Go & Rust, deploy on
   <a href="https://dev.to/obeej"><img src="https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="https://www.linkedin.com/in/obanijesuajayi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.gg/@Obeej"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://tinyurl.com/obeejdtechbuilder"><img src="https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:96740098-e79f-48bd-a999-d945c4d6db7c"><img src="https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
   <a href="https://linktr.ee/obeej"><img src="https://img.shields.io/badge/Socials-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" alt="Socials" /></a>
   <a href="https://paystack.shop/pay/xt2108lk5d"><img src="https://img.shields.io/badge/Buy%20me%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me coffee" /></a>
 </div>
