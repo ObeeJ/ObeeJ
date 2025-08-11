@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>
-  <p>🚀 Engineering Scalable Systems from Backend to Cloud
-
-**Backend, DevOps, platform(IaC) engineer**, full-stack capable with TypeScript.  
-I build **high-performance, cloud-native architectures** in Go & Rust, deploy on AWS, and automate with Docker, Terraform & Kubernetes.</p>
+  <p>Backend, DevOps & IaC Engineer who architects high-performance, cloud-native platforms in Go, Rust & TypeScript.
+Proven track record delivering scalable microservices, real-time APIs, and event-driven systems on AWS with Docker, Kubernetes & Terraform.
+Full-stack capable with Next.js, NestJS, and modern TypeScript tooling, integrating sleek UIs with resilient backend architectures.
+Currently engineering a next-gen distributed platform designed for millions of requests/day and seamless developer workflows.</p>
 </div>
 
 <div align="center">
@@ -42,6 +42,14 @@ I build **high-performance, cloud-native architectures** in Go & Rust, deploy on
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+</p>
+
+### 🏗️ Architecture
+<p align="left">
+  <img src="https://img.icons8.com/fluency/48/api-settings.png" alt="RESTful API" width="40" height="40"/> RESTful APIs
+  <img src="https://img.icons8.com/color/48/grpc.png" alt="gRPC" width="40" height="40"/> gRPC
+  <img src="https://img.icons8.com/fluency/48/microservices.png" alt="Microservices" width="40" height="40"/> Microservices
+  <img src="https://img.icons8.com/fluency/48/event-accepted.png" alt="Event-Driven Systems" width="40" height="40"/> Event-Driven Systems
 </p>
 
 ### 🎯 Product Management & Design Tools
