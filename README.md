@@ -19,7 +19,7 @@ Proven delivery of production-grade systems used at scale.</p>
 
 ## 🚀 Highlight Projects  
 
-- **[Fleetform](https://github.com/ObeeJ/fleetform)** — SaaS fleet management platform handling high-volume, real-time telemetry & logistics data; deployed with Kubernetes & gRPC microservices.  
+- **[Fleetform](https://github.com/ObeeJ/fleetform)** - High-performance SaaS fleet management platform built for real-time, large-scale telemetry and logistics data processing. Designed with gRPC microservices, containerized via Docker, and architected for cloud-native orchestration with scalable deployment and observability capabilities.
 - **[Mopcare](https://github.com/ObeeJ/mopcare)** — Healthcare operations platform with secure, event-driven architecture; built for multi-tenant environments with AWS & PostgreSQL.  
 
 Currently engineering **a next-gen distributed platform** built for millions of requests/day, with automated developer workflows and zero-downtime deploys.  
