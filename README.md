@@ -2,7 +2,7 @@
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>
   <p>🚀 Engineering Scalable Systems from Backend to Cloud
 
-**Backend, DevOps, IaC & Platform Engineer**, full-stack capable with TypeScript.  
+**Backend, DevOps, platform(IaC) engineer**, full-stack capable with TypeScript.  
 I build **high-performance, cloud-native architectures** in Go & Rust, deploy on AWS, and automate with Docker, Terraform & Kubernetes.</p>
 </div>
 
