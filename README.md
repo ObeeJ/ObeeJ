@@ -1,8 +1,8 @@
 <div align="center">    
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>    
-  <p><strong>Backend, DevOps & Platform Engineer</strong> crafting cloud-native, high-performance systems in Go, Rust & TypeScript.    
+  <p><strong>Backend, DevOps & Platform Engineer</strong> building cloud-native, high-performance systems in Go, Rust & TypeScript.    
 Architect of scalable microservices, real-time APIs, and event-driven platforms on AWS with Kubernetes, Docker & Terraform.    
-Full-stack capable with Next.js & NestJS—bridging sleek UIs and resilient distributed backends.    
+Full-stack capable with Typescript, bridging sleek UIs and resilient distributed backends.    
 Proven delivery of production-grade systems used at scale.</p>    
 </div>    
 
