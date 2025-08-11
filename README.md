@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <h1>Ajayi ObaniJesu (ObeeJ)</h1>
-  <p> #🚀 Engineering Scalable Systems from Backend to Cloud
+  <p>🚀 Engineering Scalable Systems from Backend to Cloud
 
 I’m **Ajayi ObaniJesu (ObeeJ)** — **Backend, DevOps, IaC & Platform Engineer**, full-stack capable with TypeScript.  
-I build **high-performance, cloud-native architectures** in Go & Rust, deploy on AWS, and automate with Docker, Terraform & Kubernetes. </p>
+I build **high-performance, cloud-native architectures** in Go & Rust, deploy on AWS, and automate with Docker, Terraform & Kubernetes.</p>
 </div>
 
 <div align="center">
