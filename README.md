@@ -40,11 +40,14 @@
 
 ## Technical Expertise
 
-### Core Languages
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) **Core**
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) **Secondary**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Familiar**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **Familiar**
+## Core Languages
+
+| Language      | Level       |
+|---------------|------------|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)       | Core       |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)   | Secondary  |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Familiar   |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Familiar   |
 
 ### Cloud Infrastructure & Data
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
