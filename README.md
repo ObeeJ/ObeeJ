@@ -8,9 +8,9 @@
 
 ## About Me
 
-🔧 Software Engineer: Building high-performance, scalable backend systems with Go and Rust
+🔧 Software Engineer: Building high-performance, scalable backend systems with **GoLang**, **Rust** and **AWS**
 
-🚀 DevOps Specialist: Designing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployments with Docker, Kubernetes, and Terraform
+🚀 DevOps Specialist: Designing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployments with **Docker**, **Kubernetes**, and **Terraform**
 
 🌐 Full-Stack Engineer: Connecting backend APIs to TypeScript (NextJs) frontend applications
 
