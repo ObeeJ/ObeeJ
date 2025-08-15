@@ -7,7 +7,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🔭 Backend, DevOps & Platform Engineer building cloud-native, high-performance systems in **Go**, **Rust**, & **TypeScript**
 - 🏗️ Architect of scalable microservices, real-time APIs, and event-driven platforms (AWS, Kubernetes, Docker, Terraform)
@@ -18,7 +18,7 @@
 
 ---
 
-## Connect With Me 🌐
+## Connect With Me
 
 <p align="center">
   <a href="mailto:ajayioba2000@gmail.com" target="_blank">
@@ -60,7 +60,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Database & Caching:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
