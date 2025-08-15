@@ -80,8 +80,8 @@
 [![Mopcare](https://img.shields.io/badge/Mopcare-1976D2?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/ObeeJ/mopcare)  
 Mopcare is a high-performance, microservices-based LMS & CMS built with Go, delivering secure, scalable, and resilient learning experiences. It combines cloud-native architecture, real-time monitoring, and modular services to empower enterprise-grade education platforms
 
-- [![OpsTool](https://img.shields.io/badge/OpsTool-FF9800?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ObeeJ/opstool)  
-  **DevOps Automation Platform** - Enterprise-grade tooling for automated operational workflows, CI/CD pipeline orchestration, and infrastructure provisioning. Integrates with major cloud providers and monitoring stacks for comprehensive DevOps lifecycle management.
+[![OpsTool](https://img.shields.io/badge/OpsTool-FF9800?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ObeeJ/opstool)  
+OpsTool is a production-ready, enterprise DevOps automation platform built with Go and Python, enabling CI/CD orchestration, infrastructure management, and real-time system monitoring at scale. It combines multi-tenant support, high availability, and compliance-ready workflows to empower DevOps and engineering teams.
 
 ### Current Engineering Focus
 > **Next-Generation Distributed Platform** - Architecting a cloud-native system designed for **10M+ requests/day** with automated developer workflows, intelligent auto-scaling, and zero-downtime deployment capabilities using advanced Kubernetes operators and service mesh technology.
