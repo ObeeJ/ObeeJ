@@ -1,57 +1,57 @@
-
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=00BFAE&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+DevOps+%7C+Platform+Specialist;Building+Cloud-Native,+High-Performance+Systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=00BFAE&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%7C+DevOps+%7C+Platform+Specialist;Building+Cloud-Native,+High-Performance+Systems!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-- 🔭 Backend, DevOps & Platform Engineer building cloud-native, high-performance systems in **Go**, **Rust**, & **TypeScript**
-- 🏗️ Architect of scalable microservices, real-time APIs, and event-driven platforms (AWS, Kubernetes, Docker, Terraform)
-- 🌐 Full-stack capable with TypeScript, bridging sleek UIs and resilient distributed backends
-- 🚀 Proven delivery of production-grade systems used at scale
-- 📚 Lifelong learner, tech community advocate
-- 😄 Pronouns: He/Him
+- 🔧 **Senior Backend Engineer** specializing in cloud-native, high-performance distributed systems using **Go**, **Rust**, and **Python**
+- 🏗️ **Platform Architecture Expert** designing scalable microservices, real-time APIs, and event-driven architectures on AWS with Kubernetes orchestration
+- 🌐 **Full-Stack Capabilities** bridging frontend experiences with resilient distributed backend infrastructure
+- 📊 **Production Systems Engineer** with proven track record delivering enterprise-grade solutions handling millions of requests daily
+- 🚀 **DevOps & Platform Specialist** implementing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployment strategies
+- 📚 **Continuous Learner** staying current with emerging technologies and contributing to tech communities
+- 😄 **Pronouns:** He/Him
 
 ---
 
-## Connect With Me
+## Professional Network
 
 <p align="center">
   <a href="mailto:ajayioba2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://dev.to/obeej" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
   <a href="https://www.linkedin.com/in/obanijesuajayi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:96740098-e79f-48bd-a999-d945c4d6db7c" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="https://dev.to/obeej" target="_blank">
+    <img src="https://img.shields.io/badge/Tech_Blog-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
   <a href="https://discord.gg/@Obeej" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:96740098-e79f-48bd-a999-d945c4d6db7c" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
   <a href="https://linktr.ee/obeej" target="_blank">
-    <img src="https://img.shields.io/badge/Socials-%23E4405F?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/All_Links-%2300C4CC?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
 </p>
 
 ---
 
-## Tech Stack
+## Technical Expertise
 
-### Languages
+### Core Languages
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Infrastructure & Database
+### Cloud Infrastructure & Data
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -60,7 +60,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### Monitoring & Tools
+### Observability & DevOps
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
@@ -72,40 +72,43 @@
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Featured Engineering Projects
+
+### Enterprise-Scale Platforms
 
 - [![Fleetform](https://img.shields.io/badge/Fleetform-00BFAE?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ObeeJ/fleetform)  
-  High-performance SaaS fleet management platform for real-time, large-scale telemetry and logistics. Built with gRPC microservices, Docker, and cloud-native orchestration.
+  **Enterprise Fleet Management SaaS** - High-throughput platform processing real-time telemetry for large-scale logistics operations. Engineered with microservices architecture using gRPC, event-driven design, and cloud-native deployment strategies.
 
 - [![Mopcare](https://img.shields.io/badge/Mopcare-1976D2?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/ObeeJ/mopcare)  
-  Healthcare operations platform with secure, event-driven architecture for multi-tenant environments on AWS & PostgreSQL.
+  **Healthcare Operations Platform** - HIPAA-compliant healthcare management system with multi-tenant architecture, secure API design, and event-driven workflows. Built on AWS with PostgreSQL and advanced security patterns.
 
 - [![OpsTool](https://img.shields.io/badge/OpsTool-FF9800?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ObeeJ/opstool)  
-  Developer-centric platform for automating DevOps workflows and operational tasks. Integrates with CI/CD, cloud providers, and monitoring stacks for rapid environment provisioning, zero-downtime deployments, and incident response automation.
+  **DevOps Automation Platform** - Enterprise-grade tooling for automated operational workflows, CI/CD pipeline orchestration, and infrastructure provisioning. Integrates with major cloud providers and monitoring stacks for comprehensive DevOps lifecycle management.
 
-> Currently engineering **a next-gen distributed platform** built for millions of requests/day, with automated developer workflows and zero-downtime deploys.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ObeeJ&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObeeJ&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObeeJ&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### Current Engineering Focus
+> **Next-Generation Distributed Platform** - Architecting a cloud-native system designed for **10M+ requests/day** with automated developer workflows, intelligent auto-scaling, and zero-downtime deployment capabilities using advanced Kubernetes operators and service mesh technology.
 
 ---
 
-## ✍️ Latest Blog Posts
+## 📊 Engineering Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ObeeJ&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ObeeJ&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObeeJ&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+---
+
+## 📝 Technical Publications & Insights
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-▶️ [More blog posts...](https://dev.to/obeej)
+📖 [**View All Technical Articles →**](https://dev.to/obeej)
 
 ---
 
@@ -113,4 +116,3 @@
 ObeeJ/ObeeJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
