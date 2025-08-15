@@ -15,7 +15,7 @@
 
 ## Professional Network
 
-<p align="center">
+<p align="left">
   <a href="mailto:ajayioba2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
