@@ -8,12 +8,12 @@
 
 ## About Me
 
-🔧 Software Engineer – Building high-performance, scalable backend systems with Go and Rust
-🚀 DevOps Specialist – Designing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployments with Docker, Kubernetes, and Terraform
-🌐 Full-Stack Developer – Connecting backend APIs to TypeScript + Next.js frontend applications
-🐍 Automation & Scripting – Leveraging Python for tooling, scripts, and workflow efficiency
-📊 Impact-Focused – Delivered production-ready systems like fleetform and OpsTool
-📚 Continuous Learner – Exploring emerging technologies, cloud-native architectures, and scalable software solutions
+- 🔧 Software Engineer: Building high-performance, scalable backend systems with Go and Rust
+- 🚀 DevOps Specialist: Designing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployments with Docker, Kubernetes, and Terraform
+- 🌐 Full-Stack Engineer: Connecting backend APIs to TypeScript + Next.js frontend applications
+- 🐍 Automation & Scripting: Leveraging Python for tooling, scripts, and workflow efficiency
+- 📊 Impact-Focused: Delivered production-ready systems like fleetform and OpsTool
+- 📚 Continuous Learner: Exploring emerging technologies, cloud-native architectures, and scalable software solutions
 
 ---
 
