@@ -8,13 +8,12 @@
 
 ## About Me
 
-- 🔧 **Senior Backend Engineer** specializing in cloud-native, high-performance distributed systems using **Go**, **Rust**, and **Python**
-- 🏗️ **Platform Architecture Expert** designing scalable microservices, real-time APIs, and event-driven architectures on AWS with Kubernetes orchestration
-- 🌐 **Full-Stack Capabilities** bridging frontend experiences with resilient distributed backend infrastructure
-- 📊 **Production Systems Engineer** with proven track record delivering enterprise-grade solutions handling millions of requests daily
-- 🚀 **DevOps & Platform Specialist** implementing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployment strategies
-- 📚 **Continuous Learner** staying current with emerging technologies and contributing to tech communities
-- 😄 **Pronouns:** He/Him
+🔧 Software Engineer – Building high-performance, scalable backend systems with Go and Rust
+🚀 DevOps Specialist – Designing CI/CD pipelines, Infrastructure as Code, and zero-downtime deployments with Docker, Kubernetes, and Terraform
+🌐 Full-Stack Developer – Connecting backend APIs to TypeScript + Next.js frontend applications
+🐍 Automation & Scripting – Leveraging Python for tooling, scripts, and workflow efficiency
+📊 Impact-Focused – Delivered production-ready systems like fleetform and OpsTool
+📚 Continuous Learner – Exploring emerging technologies, cloud-native architectures, and scalable software solutions
 
 ---
 
