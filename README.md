@@ -77,8 +77,8 @@
 [![Fleetform](https://img.shields.io/badge/Fleetform-00BFAE?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ObeeJ/fleetform)  
 **Fleetform** delivers enterprise-grade Infrastructure as Code, combining Rust safety, Go Fiber performance, and real-time visualization.
 
-- [![Mopcare](https://img.shields.io/badge/Mopcare-1976D2?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/ObeeJ/mopcare)  
-  **Healthcare Operations Platform** - HIPAA-compliant healthcare management system with multi-tenant architecture, secure API design, and event-driven workflows. Built on AWS with PostgreSQL and advanced security patterns.
+[![Mopcare](https://img.shields.io/badge/Mopcare-1976D2?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/ObeeJ/mopcare)  
+Mopcare is a high-performance, microservices-based LMS & CMS built with Go, delivering secure, scalable, and resilient learning experiences. It combines cloud-native architecture, real-time monitoring, and modular services to empower enterprise-grade education platforms
 
 - [![OpsTool](https://img.shields.io/badge/OpsTool-FF9800?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/ObeeJ/opstool)  
   **DevOps Automation Platform** - Enterprise-grade tooling for automated operational workflows, CI/CD pipeline orchestration, and infrastructure provisioning. Integrates with major cloud providers and monitoring stacks for comprehensive DevOps lifecycle management.
