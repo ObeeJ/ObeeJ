@@ -74,8 +74,8 @@
 
 ### Enterprise-Scale Platforms
 
-- [![Fleetform](https://img.shields.io/badge/Fleetform-00BFAE?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ObeeJ/fleetform)  
-  **Fleetform** delivers enterprise-grade Infrastructure as Code, combining Rust safety, Go Fiber performance, and real-time visualization.
+[![Fleetform](https://img.shields.io/badge/Fleetform-00BFAE?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/ObeeJ/fleetform)  
+**Fleetform** delivers enterprise-grade Infrastructure as Code, combining Rust safety, Go Fiber performance, and real-time visualization.
 
 - [![Mopcare](https://img.shields.io/badge/Mopcare-1976D2?style=for-the-badge&logo=aws&logoColor=white)](https://github.com/ObeeJ/mopcare)  
   **Healthcare Operations Platform** - HIPAA-compliant healthcare management system with multi-tenant architecture, secure API design, and event-driven workflows. Built on AWS with PostgreSQL and advanced security patterns.
