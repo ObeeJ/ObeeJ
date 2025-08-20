@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/obanijesuajayi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:96740098-e79f-48bd-a999-d945c4d6db7c" target="_blank">
+  <a href="https://docs.google.com/document/d/1wQDilCur4sZ5eJBmJKyGxbKF27dQl6CJAoe-woZPWCE/edit?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%23FF9800.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://dev.to/obeej" target="_blank">
