@@ -8,7 +8,7 @@
 
 ## About Me
 
-Software and DevOps Engineer building **high-performance, cloud-native systems**.  
+Software Engineer building **high-performance, cloud-native systems**.  
 Delivering **production-ready solutions** that streamline workflows, automate operations, and solve real-world challenges at scale.
 
 ---
