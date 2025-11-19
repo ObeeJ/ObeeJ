@@ -59,9 +59,8 @@ Delivering **production-ready solutions** that streamline workflows, automate op
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ### Observability & DevOps
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Cloudwatch](https://img.shields.io/badge/CLoudwatch-E6522C?style=flat&logo=cloudwatch&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-F46800?style=flat&logo=sentry&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -69,7 +68,7 @@ Delivering **production-ready solutions** that streamline workflows, automate op
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### Enterprise-Scale Platforms
 
@@ -87,7 +86,7 @@ OpsTool is a production-ready, enterprise DevOps automation platform built with 
 
 ---
 
-## 📊 Engineering Metrics
+## Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ObeeJ&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
@@ -101,15 +100,15 @@ OpsTool is a production-ready, enterprise DevOps automation platform built with 
 
 ---
 
-## 📝 Technical Publications & Insights
+## Technical Publications & Insights
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-📖 [**View All Technical Articles →**](https://dev.to/obeej)
+ [**View All Technical Articles →**](https://dev.to/obeej)
 
 ---
 
 <!---
-ObeeJ/ObeeJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ObeeJ/ObeeJ is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
