@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=00BFAE&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%7C+DevOps+%7C+Platform+Specialist;Building+Cloud-Native,+High-Performance+Systems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=00BFAE&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer+%7C+DevOps+Practice+%7C+Platform+Specialist;Building+Cloud-Native,+High-Performance+Systems!" alt="Typing SVG" />
 </p>
 
 ---
